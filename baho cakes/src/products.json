@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "type": "Chocolate",
+        "image": "/assets/product1.jpeg",
+        "title": "Chocolate Cake",
+        "description": "Indulge in the heavenly flavors of our signature chocolate fudge cake, a perfect treat for chocolate lovers.",
+        "price": "$25.99"
+    },
+    {
+        "id": 2,
+        "type": "Fruit",
+        "image": "/assets/product1.jpeg",
+        "title": "Strawberry Cake",
+        "description": "Experience the magic of a classic red velvet cake with layers of velvety smooth cream cheese frosting.",
+        "price": "$22.99"
+    },
+    {
+        "id": 3,
+        "type": "Fruit",
+        "image": "/assets/product1.jpeg",
+        "title": "Velvet Cake",
+        "description": "Our moist and zesty lemon drizzle cake will transport your taste buds to a world of citrusy delight.",
+        "price": "$27.99"
+    },
+    {
+        "id": 4,
+        "type": "Chocolate",
+        "image": "/assets/product1.jpeg",
+        "title": "Drizzle Cake",
+        "description": "Savor the sweet harmony of fresh strawberries and rich vanilla in our strawberry shortcake.",
+        "price": "$19.99"
+    },
+    {
+        "id": 5,
+        "type": "Velvet",
+        "image": "/assets/product1.jpeg",
+        "title": "Strawberry Shortcake",
+        "description": "For a taste of nostalgia, try our timeless vanilla buttercream cake, a true crowd-pleaser.",
+        "price": "$21.99"
+    },
+    {
+        "id": 6,
+        "type": "Velvet",
+        "image": "/assets/product1.jpeg",
+        "title": "Buttercream Cake",
+        "description": "Discover the richness of our tiramisu cake, featuring layers of coffee-soaked ladyfingers and mascarpone.",
+        "price": "$29.99"
+    },
+    {
+        "id": 7,
+        "type": "Specialty",
+        "image": "/assets/product1.jpeg",
+        "title": "Tiramisu Cake",
+        "description": "Embrace the warmth of the holidays with our spiced carrot cake, complete with cream cheese frosting and a hint of cinnamon.",
+        "price": "$23.99"
+    },
+    {
+        "id": 8,
+        "type": "Specialty",
+        "image": "/assets/product1.jpeg",
+        "title": "Spiced Cake",
+        "description": "Dive into a tropical paradise with our coconut pineapple cake, a tropical twist on a classic dessert.",
+        "price": "$26.99"
+    },
+    {
+        "id": 9,
+        "type": "Chocolate",
+        "image": "/assets/product1.jpeg",
+        "title": "Pineapple Cake",
+        "description": "For the ultimate chocolate experience, our triple chocolate ganache cake is a dream come true.",
+        "price": "$30.99"
+    },
+    {
+        "id": 10,
+        "type": "Chocolate",
+        "image": "/assets/product1.jpeg",
+        "title": "Triple Cake",
+        "description": "A mouthwatering almond-infused cake that will leave you craving for more.",
+        "price": "$24.99"
+    },
+    {
+        "id": 11,
+        "type": "Chocolate",
+        "image": "/assets/product1.jpeg",
+        "title": "Almond Cake",
+        "description": "Our classic marble cake combines the best of both worlds with swirls of chocolate and vanilla.",
+        "price": "$20.99"
+    },
+    {
+        "id": 12,
+        "type": "Velvet",
+        "image": "/assets/product1.jpeg",
+        "title": "Marble Cake",
+        "description": "Treat yourself to a slice of our rich and decadent dark chocolate raspberry cake.",
+        "price": "$28.99"
+    },
+    {
+        "id": 13,
+        "type": "Chocolate",
+        "image": "/assets/product1.jpeg",
+        "title": "Dark Cake",
+        "description": "A fruity delight awaits in our strawberry lemonade cake with a burst of strawberry and lemon flavors.",
+        "price": "$22.99"
+    },
+    {
+        "id": 14,
+        "type": "Chocolate",
+        "image": "/assets/product1.jpeg",
+        "title": "Lemonade Cake",
+        "description": "A tropical twist on a classic favorite, our mango coconut cake is a taste of paradise.",
+        "price": "$25.99"
+    },
+    {
+        "id": 15,
+        "type": "Chocolate",
+        "image": "/assets/product1.jpeg",
+        "title": "Mango Cake",
+        "description": "Celebrate in style with our elegant champagne and raspberry cake, perfect for special occasions.",
+        "price": "$32.99"
+    },
+    {
+        "id": 16,
+        "type": "Chocolate",
+        "image": "/assets/product1.jpeg",
+        "title": "Champagne Cake",
+        "description": "A creamy delight awaits in our cookies and cream cake, a treat for cookie enthusiasts.",
+        "price": "$21.99"
+    },
+    {
+        "id": 17,
+        "type": "Fruit",
+        "image": "/assets/product1.jpeg",
+        "title": "Cream Cake",
+        "description": "For those who love nuts, our hazelnut praline cake is a nutty and delightful choice.",
+        "price": "$27.99"
+    },
+    {
+        "id": 18,
+        "type": "Chocolate",
+        "image": "/assets/product1.jpeg",
+        "title": "Praline Cake",
+        "description": "Enjoy a slice of our coconut lime cake with a burst of tropical citrus and coconut flavors.",
+        "price": "$23.99"
+    },
+    {
+        "id": 19,
+        "type": "Chocolate",
+        "image": "/assets/product1.jpeg",
+        "title": "Coconut Cake",
+        "description": "A delightful combination of caramel and pecans in our caramel pecan crunch cake.",
+        "price": "$29.99"
+    },
+    {
+        "id": 20,
+        "type": "Chocolate",
+        "image": "/assets/product1.jpeg",
+        "title": "Caramel Cake",
+        "description": "A classic favorite, our creamy cheesecake is the perfect way to end a meal.",
+        "price": "$25.99"
+    }
+]

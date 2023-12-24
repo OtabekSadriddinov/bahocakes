@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baho Cakes</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" integrity="sha512-YWzhKL2whUzgiheMoBFwW8CKV4qpHQAEuvilg9FAn5VJUDwKZZxkJNuGM4XkWuk94WCrrwslk8yWNGmY1EduTA==" crossorigin="anonymous" referrerpolicy="no-referrer" /></head>
+    <link rel="stylesheet"
+    href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+<body>
+    <header>
+    <nav>
+        <ul class='nav-bar'>
+            <li class='logo'><a href='#'><img src='/assets/logo.png'/></a></li>
+            <input type='checkbox' id='check' />
+            <span class="menu">
+                <li><a href="index.html">Asosiy</a></li>
+                <li><a href="">Katalog</a></li>
+                <li><a href="index.html">Aloqa</a></li>
+                <li><a href="index.html">Skidka</a></li>
+                <label for="check" class="close-menu"><i class="fas fa-times"></i></label>
+            </span>
+            <label for="check" class="open-menu"><i class="fas fa-bars"></i></label>
+        </ul>
+    </nav>
+    </header>
+
+    <div class="catalog-text">
+        <div class="wrapper-text">
+            <h1>Catalog</h1>
+            <p>Tarkibida Zam Zam suvi mavjud bo'lgan o'zgacha ta'mlar dunyosiga sayohat qilishga tayyormisiz?</p>
+            <p> Unday bo'lsa Mazzali Sayohat tilaymiz!</p>
+        </div>
+    </div>
+    <div class="btn-wrapper">
+        <div class="btn-container">
+        
+            <button class="btn catalog-btn" onclick="filterProducts('all')">Barchasi</button>
+            <button class="btn catalog-btn" onclick="filterProducts('Chocolate')">Chocolate</button>
+            <button class="btn catalog-btn" onclick="filterProducts('Fruit')">Mevali</button>
+            <button class="btn catalog-btn" onclick="filterProducts('Velvet')">Mag'izli</button>
+            <button class="btn catalog-btn" onclick="filterProducts('Specialty')">Maxsus</button>
+       
+    </div>
+    </div>
+    
+    
+    <div class="katalog">
+        <div class="products">
+            <div class="product">
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="footer">
+        <p style="color: red;">Baho Cakes</p>
+        <p>Copyright Claim 2024 || Designed by <a href="#">UstozPro</a></p>
+    </div>
+    <script src="script.js"></script>
+
+</body>
+</html>
